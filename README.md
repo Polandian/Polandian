@@ -1,5 +1,1 @@
-print("""
-My Final Message
-Change Da World
-Goodbye
-""")
+print("hello world")
